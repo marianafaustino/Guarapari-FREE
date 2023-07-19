@@ -1,0 +1,24 @@
+header{
+    background-color: #32a9d9;
+    color: #fff;
+    display: flex;
+    height: 90px;
+    border-bottom: 2px solid #fff;
+}
+
+
+header span{
+    color: #c2c482;
+    font-weight: 900;
+    font-size: 2em;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff; 
+    letter-spacing: 2.5px;
+}
+
+header img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: auto 30px;
+    border: 3px solid #c2c482;
+}
